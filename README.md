@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=gulezgin&theme=algolia&show_icons=true)](https://github.com/gulezgin)
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=gulezgin&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gulezgin)](https://github.com/anuraghazra/github-readme-stats)
+[![gulezgin GitHub stats](https://github-readme-stats.vercel.app/api?username=gulezgin)](https://github.com/gulezgin/github-readme-stats)
