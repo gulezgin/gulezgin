@@ -19,4 +19,10 @@ Here are some ideas to get you started:
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=gulezgin&show_icons=true&theme=radical)
 
-
+name: Example
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.classic.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: header, repositories
+  plugin_lines: yes
