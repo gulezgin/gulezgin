@@ -25,7 +25,7 @@
 <br>
 <br>
 <a href="https://github.com/gulezgin"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gulezgin&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
-<a href="https://github.com/gulezgin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulezgin&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=15" /></a>
+<a href="https://github.com/gulezgin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulezgin&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=15 /></a>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulezgin&label=Profile%20views&color=0e75b6&style=flat" alt="gulezgin" /> </p>
 
