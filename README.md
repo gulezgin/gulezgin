@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tarık </h1>
-<h3 align="center"></h3>
+<h3 align="center">Software Engineer - Python Developer - AI Engineer - Machine Learning Engineer - Web Scraping Specialist - Web Developer - Data Scientist</h3>
 <br>
 <br>
 <br>
