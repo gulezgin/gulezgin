@@ -5,13 +5,11 @@
 <br>
 <br>
 
-
 📝 I regularly write articles on https://medium.com/@gulezgin
 
 📫 How to reach me tarikgulezgin@gmail.com
 
 📄 Know about my experiences https://www.linkedin.com/in/tarık-gülezgin
-
 
 <!--
 <h3 align="left">Connect with me:</h3>
@@ -21,6 +19,7 @@
 <a href="https://linkedin.com/in/tarık-gülezgin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarık-gülezgin" height="30" width="40" /></a>
 </p>-->
 
+<!--
 <br>
 <br>
 <br>
@@ -30,7 +29,7 @@
 </p>
 <br>
 <br>
-
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulezgin&label=Profile%20views&color=0e75b6&style=flat" alt="gulezgin" /> </p>
 
 
