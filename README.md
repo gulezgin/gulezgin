@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tarık </h1>
 <h3 align="center">Software Engineer - Python Developer - AI Engineer - Machine Learning Engineer - Web Scraping Specialist - Web Developer - Data Scientist</h3>
-<br>
-<br>
-<br>
 
 📝 I regularly write articles on https://medium.com/@gulezgin
 
@@ -12,6 +9,9 @@
 📄 Know about my experiences https://www.linkedin.com/in/tarık-gülezgin
 
 <!--
+<br>
+<br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://www.instagram.com/trkgulezgin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trkgulezgin" height="30" width="40" /></a>
 <a href="https://twitter.com/trkglzgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="trkglzgn" height="30" width="40" /></a>
