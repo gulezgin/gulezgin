@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tarık </h1>
-<h3 align="center">Software Engineer - Python Developer - AI Engineer - Machine Learning Engineer - Web Scraping Specialist - Web Developer - Data Scientist</h3>
+<h3 align="center"> Data Scientist & AI Engineer</h3>
 
 📝 I regularly write articles on https://medium.com/@gulezgin
 
